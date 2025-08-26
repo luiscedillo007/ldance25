@@ -1,0 +1,5 @@
+   cd backend
+   npm install express socket.io cors
+   npm install --save-dev nodemon
+   npm install sqlite3 bcrypt uuid
+      npm install bcrypt
